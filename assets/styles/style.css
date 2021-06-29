@@ -1,0 +1,20 @@
+.list-unstyled2 li {
+	display: inline;
+	padding: 5px;
+	text-align: center;
+
+}
+
+.list-unstyled2 li img {
+	width: 48px;
+}
+
+
+.list-unstyled li a {
+	color: black;
+}
+
+.list-unstyled li a:hover {
+	color: #049183;
+}
+
