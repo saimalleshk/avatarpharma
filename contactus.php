@@ -52,3 +52,7 @@ include 'navbar.php';
 <br><br><br>
 
 </div>
+
+<?php
+include 'footer.php';
+?>
