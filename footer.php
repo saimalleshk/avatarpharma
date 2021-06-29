@@ -30,16 +30,16 @@
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!" style="text-decoration: none;">Home</a>
+            <a href="index.php" style="text-decoration: none;">Home</a>
           </li>
           <li>
-            <a href="#!" style="text-decoration: none;">Our Service</a>
+            <a href="ourservices.php" style="text-decoration: none;">Our Service</a>
           </li>
           <li>
-            <a href="#!" style="text-decoration: none;">About us</a>
+            <a href="aboutus.php" style="text-decoration: none;">About us</a>
           </li>
           <li style="text-decoration: none;">
-            <a href="#!" style="text-decoration: none;">Contact us</a>
+            <a href="contactus.php" style="text-decoration: none;">Contact us</a>
           </li>
           
         </ul>
