@@ -23,7 +23,7 @@ include 'navbar.php';
 	</div>
 
 	<div class="col-lg-6 col-md-12 col-sm-12" style="padding-top: 35px;">		
-		<form action="mail.php" method="post" class="row g-3">
+		<form action="main.php" method="post" class="row g-3">
 			<div class="col-md-6">
 				<label for="fullname" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Full Name</label>
 				<input type="text" class="form-control" id="inputEmail4">
