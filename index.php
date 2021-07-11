@@ -85,12 +85,12 @@
 				<div class="col-lg-4 col-md-4 col-sm-4" style="text-align: center; padding: 14px;">
 					<img src="assets/images/chat.png" style="width: 32px;">
 					<hr>
-					<h5>info@avatarbiopharma.org</h5>
+					<h5>avatarbiopharma@gmail.com</h5>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-4" style="text-align: center; padding: 14px;">
 					<img src="assets/images/phone-call.png" style="width: 32px;">
 					<hr>
-					<h5>+122 123 4567</h5>
+					<h5>+91 9010 314 450</h5>
 				</div>
 			</div>
 		</div> <!-- Container-004 Ends here-->
