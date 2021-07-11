@@ -25,19 +25,19 @@ include 'navbar.php';
 	<div class="col-lg-6 col-md-12 col-sm-12" style="padding-top: 35px;">		
 		<form action="mail.php" method="post" class="row g-3">
 			<div class="col-md-6">
-				<label for="inputEmail4" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Full Name</label>
-				<input type="email" class="form-control" id="inputEmail4">
+				<label for="fullname" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Full Name</label>
+				<input type="text" class="form-control" id="inputEmail4">
 			</div>
 			<div class="col-md-6">
-				<label for="inputPassword4" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Phone number</label>
-				<input type="password" class="form-control" id="inputPassword4">
+				<label for="phonenumber" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Phone number</label>
+				<input type="text" class="form-control" id="inputPassword4">
 			</div>
 			<div class="col-12">
-				<label for="inputAddress" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Requirement</label>
+				<label for="requirement" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Requirement</label>
 				<input type="text" class="form-control" id="inputAddress" placeholder="Your Requirement">
 			</div>
 			<div class="col-12">
-				<label for="inputAddress2" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Comment</label>
+				<label for="comment" class="form-label" style="font-family: 'Chivo', sans-serif; color: #093199;">Comment</label>
 				<input type="text" class="form-control" id="inputAddress2" placeholder="Write your comment here">
 			</div>
 				<div class="col-12">
