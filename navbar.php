@@ -24,7 +24,7 @@
 	      <div class="navbar-nav" style="font-size: 20px;">
 	        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
 	        <a class="nav-link" href="ourservices.php">Our Service</a>
-	        <a class="nav-link" href="aboutus.php">About us</a>
+	        <a class="nav-link" href="#">About us</a>
 	        <a class="nav-link" href="contactus.php">Contact us</a>
 	      </div>
 	    </div>
