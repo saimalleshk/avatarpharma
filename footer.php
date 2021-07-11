@@ -36,7 +36,7 @@
             <a href="ourservices.php" style="text-decoration: none;">Our Service</a>
           </li>
           <li>
-            <a href="aboutus.php" style="text-decoration: none;">About us</a>
+            <a href="#" style="text-decoration: none;">About us</a>
           </li>
           <li style="text-decoration: none;">
             <a href="contactus.php" style="text-decoration: none;">Contact us</a>
